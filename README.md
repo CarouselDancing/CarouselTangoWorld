@@ -36,6 +36,10 @@ To use this Carousel Tango Town Unity 3D Environment Scene:
    
    Feel free to modify and customize the scene to suit your specific requirements. You can adjust textures, models, lighting, and other elements to match your project's theme.
 
+**Note about Light Probe:**
+   
+   The scene includes a light probe for testing purposes. You can remove or replace this with your desired dancer content or any other lighting setup.
+
 ## Installation
 
 There is no specific installation process for this project, as it's a standalone Unity 3D scene. Simply follow the "Usage" instructions to explore and utilize the town environment in your Unity projects.
