@@ -1,6 +1,6 @@
 # Carousel Tango World Unity 3D Environment Scene
 
-This project is a Unity 3D environment scene of a town, designed for open access and use. It provides a realistic representation of a town, allowing developers, designers, and enthusiasts to explore and utilize it for various purposes.
+This project is a Unity 3D environment cube map of a town, designed for open access and use. It provides a realistic representation of a town, allowing developers, designers, and enthusiasts to explore and utilize it for various purposes.
 
 ![alt text](https://github.com/CarouselDancing/CarouselTangoWorld/blob/main/Assets/Textures/TangoScene.png)
 
